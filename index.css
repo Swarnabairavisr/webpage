@@ -1,0 +1,17 @@
+.header{
+    padding: 50px;
+    text-align: center;
+    background-color: pink;
+    font size: 30%;
+    
+}
+
+table,tr,td,th{ 
+    border: 2px dotted red;
+    padding: 20px;
+    margin-left: 50px;
+    text-align: centre;
+    font-size: 30px;
+    }
+    
+    
